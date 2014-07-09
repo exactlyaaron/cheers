@@ -25,7 +25,7 @@ else
     if "AEFHILMNORSX".include? "#{char}"
       puts "Give me an... #{char}"
     else
-      puts "Give me a... #{char}"
+      puts "Give me a...  #{char}"
     end
   end
   puts "#{name.upcase}'s just GRAND!"
